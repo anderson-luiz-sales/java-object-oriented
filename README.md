@@ -1,75 +1,75 @@
-# 📚 Java Object-Oriented Programming (OOP) Course
+# 📚 Curso de Programação Orientada a Objetos (OOP) em Java
 
-Welcome to the **Java Object-Oriented Programming (OOP) Course**! 🚀 This repository is designed to help you understand the fundamental concepts of OOP using Java.
+Bem-vindo ao **Curso de Programação Orientada a Objetos (OOP) em Java**! 🚀 Este repositório foi criado para ajudá-lo a entender os conceitos fundamentais de OOP usando Java.
 
-## 📖 Table of Contents
+## 📖 Índice
 
-- [Introduction](#introduction)
-- [Course Objectives](#course-objectives)
-- [Getting Started](#getting-started)
-- [Course Structure](#course-structure)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introdução](#introdução)
+- [Objetivos do Curso](#objetivos-do-curso)
+- [Começando](#começando)
+- [Estrutura do Curso](#estrutura-do-curso)
+- [Recursos](#recursos)
+- [Contribuindo](#contribuindo)
+- [Licença](#licença)
 
-## 🔍 Introduction
+## 🔍 Introdução
 
-Object-Oriented Programming (OOP) is a programming paradigm that uses "objects" to design applications and computer programs. This course will guide you through the core principles of OOP, including encapsulation, inheritance, polymorphism, and abstraction, all within the context of the Java programming language. 🖥️
+Programação Orientada a Objetos (OOP) é um paradigma de programação que utiliza "objetos" para projetar aplicações e programas de computador. Este curso irá guiá-lo pelos princípios centrais da OOP, incluindo encapsulamento, herança, polimorfismo e abstração, tudo dentro do contexto da linguagem de programação Java. 🖥️
 
-## 🎯 Course Objectives
+## 🎯 Objetivos do Curso
 
-By the end of this course, you will be able to:
+Ao final deste curso, você será capaz de:
 
-- Understand the fundamental principles of OOP 🧠
-- Create and use Java classes and objects 🏗️
-- Implement encapsulation, inheritance, and polymorphism in Java 🔄
-- Design and develop your own Java applications using OOP concepts 💻
+- Entender os princípios fundamentais da OOP 🧠
+- Criar e usar classes e objetos em Java 🏗️
+- Implementar encapsulamento, herança e polimorfismo em Java 🔄
+- Projetar e desenvolver suas próprias aplicações Java usando conceitos de OOP 💻
 
-## 🚀 Getting Started
+## 🚀 Começando
 
-To get started with this course, ensure you have the following:
+Para começar com este curso, certifique-se de ter o seguinte:
 
-- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) installed on your machine ☕
-- An IDE (Integrated Development Environment) such as [Eclipse](https://www.eclipse.org/) or [IntelliJ IDEA](https://www.jetbrains.com/idea/) 🛠️
-- Basic understanding of Java syntax 📘
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) instalado em sua máquina ☕
+- Um IDE (Ambiente de Desenvolvimento Integrado) como [Eclipse](https://www.eclipse.org/) ou [IntelliJ IDEA](https://www.jetbrains.com/idea/) 🛠️
+- Conhecimento básico da sintaxe Java 📘
 
-## 📚 Course Structure
+## 📚 Estrutura do Curso
 
-This course includes the following modules:
+Este curso inclui os seguintes módulos:
 
-1. **Introduction to OOP** 🏁
-   - What is OOP?
-   - Benefits of OOP
-2. **Classes and Objects** 🏛️
-   - Defining classes
-   - Creating objects
-3. **Encapsulation** 🔒
-   - Access modifiers
-   - Getters and setters
-4. **Inheritance** 🌳
-   - Base and derived classes
-   - Method overriding
-5. **Polymorphism** 🎭
-   - Method overloading
-   - Dynamic binding
-6. **Abstraction** 🚪
-   - Abstract classes and interfaces
-   - Real-world applications
+1. **Introdução à OOP** 🏁
+   - O que é OOP?
+   - Benefícios da OOP
+2. **Classes e Objetos** 🏛️
+   - Definindo classes
+   - Criando objetos
+3. **Encapsulamento** 🔒
+   - Modificadores de acesso
+   - Getters e setters
+4. **Herança** 🌳
+   - Classes base e derivadas
+   - Sobrescrita de métodos
+5. **Polimorfismo** 🎭
+   - Sobrecarga de métodos
+   - Vinculação dinâmica
+6. **Abstração** 🚪
+   - Classes e interfaces abstratas
+   - Aplicações no mundo real
 
-## 📖 Resources
+## 📖 Recursos
 
-- [Java Documentation](https://docs.oracle.com/en/java/) 📄
-- [Java Tutorials](https://docs.oracle.com/javase/tutorial/) 🎓
-- [OOP Principles](https://en.wikipedia.org/wiki/Object-oriented_programming) 🌐
+- [Documentação Java](https://docs.oracle.com/en/java/) 📄
+- [Tutoriais Java](https://docs.oracle.com/javase/tutorial/) 🎓
+- [Princípios de OOP](https://pt.wikipedia.org/wiki/Programação_orientada_a_objetos) 🌐
 
-## 🤝 Contributing
+## 🤝 Contribuindo
 
-Contributions are welcome! If you have suggestions for improvements or new topics to cover, feel free to open an issue or submit a pull request. 💬
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou novos tópicos a serem abordados, sinta-se à vontade para abrir uma issue ou enviar um pull request. 💬
 
-## 📝 License
+## 📝 Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes. 📜
 
 ---
 
-Happy coding! 🎉
+Feliz codificação! 🎉
