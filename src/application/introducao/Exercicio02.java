@@ -1,4 +1,4 @@
-package aplication.introducao;
+package application.introducao;
 
 import entities.introducao.Animal;
 
