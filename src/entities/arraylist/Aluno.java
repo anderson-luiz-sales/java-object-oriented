@@ -1,0 +1,36 @@
+package entities.arraylist;
+
+public class Aluno {
+    private String nome;
+    private String matricula;
+    private String curso;
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public String getMatricula() {
+        return matricula;
+    }
+
+    public void setMatricula(String matricula) {
+        this.matricula = matricula;
+    }
+
+    public String getCurso() {
+        return curso;
+    }
+
+    public void setCurso(String curso) {
+        this.curso = curso;
+    }
+
+    @Override
+    public String toString() {
+        return "Nome: " + nome + ", Matrícula: " + matricula + ", Curso: " + curso;
+    }
+}
